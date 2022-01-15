@@ -1,3 +1,10 @@
+How to launch the game:
+
+Open GameLauncher.java on editor with available console.
+Run GameLauncher
+javac *.java
+java GameLauncher.java 
+
 ****************Pistola de Agua****************
 
 ----Theme----
